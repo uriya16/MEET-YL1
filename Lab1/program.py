@@ -1,1 +1,2 @@
-print ("Uriya")
+def printMyName():
+	print ("Uriya")
